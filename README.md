@@ -4,7 +4,7 @@ This is a full stack application consisting of:
 
 - A **.NET Core microservice**
 - An **Angular frontend**
-- 
+
 ## Running the Backend Microservice (Docker)
 
 The .NET backend is containerized. To run it using Docker:
