@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HR/CMyt9yUziHjhLYTAwSXHsu14a6yWAJXZbUaC6OOE=",
+  "Source": "ChallengeMicroservice",
+  "BasePath": "_content/ChallengeMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

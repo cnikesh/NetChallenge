@@ -1,0 +1,6 @@
+@ChallengeMicroservice_HostAddress = http://localhost:5127
+
+GET {{ChallengeMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
